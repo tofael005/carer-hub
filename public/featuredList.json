@@ -1,0 +1,111 @@
+[
+    {
+        "_id": "1",
+        "jobTitle": "Google Technical Engineer",
+        "company": "Google LLC",
+        "jobType": "Remote",
+        "jobTime": "Full Time",
+        "location": "New York, USA",
+        "salary": "70K - 100K",
+        "description": " A Technical Engineer at Google is responsible for designing, developing, and maintaining various Google products and services. They work in close collaboration with other teams such as product management, design, and user experience to ensure that the products are efficient, reliable, and user-friendly.",
+        "jobResponsibility" : "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+        "requirements": "Bachelor degree to complete any reputational university.",
+        "experiences": "2-3 Years in this field.",
+        "phone": "01750-00 00 00",
+        "email": "info@gmail.com",
+        "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh",
+        "logo": "/assets/Logo/google-1-1 1-1.png"
+        
+    },
+    {
+        "_id": "2",
+        "jobTitle": "Marketing & Sales",
+        "company": "Netflix LLC",
+        "jobType": "Remote",
+        "jobTime": "Part Time",
+        "location": "California, USA",
+        "salary": "30K - 50K",
+        "description": " Netflix is a global streaming service that offers a wide range of television shows, movies, documentaries, and other content to its subscribers. The company uses various marketing and sales strategies to attract and retain customers, including: Personalized Recommendations: Netflix uses advanced a",
+        "jobResponsibility" : "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+        "requirements": "Bachelor degree to complete any reputational university.",
+        "experiences": "2-3 Years in this field.",
+        "phone": "+120 750-00 12 88",
+        "email": "info@gmail.com",
+        "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh",
+        "logo": "/assets/All Images/netflix-4 1.png"
+        
+    },
+    {
+        "_id": "3",
+        "jobTitle": "Upwork SEO Expert",
+        "company": "Upwork USA",
+        "jobType": "Onside",
+        "jobTime": "Full Time",
+        "location": "Dhaka, Bangladesh",
+        "salary": "80K - 110K",
+        "description": " An Upwork SEO Expert is a freelancer who provides search engine optimization (SEO) services to clients on Upwork, a global freelancing platform. The role of an SEO expert is to help clients improve their website's visibility in search engine results pages (SERPs) by optimizing various on-page and off-page factors that affect search engine rankings. Some of the key responsibilities of an Upwork SEO Expert include:",
+        "jobResponsibility" : "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+        "requirements": "Bachelor degree to complete any reputational university.",
+        "experiences": "2-3 Years in this field.",
+        "phone": "+120 750-00 12 85",
+        "email": "info@gmail.com",
+        "address": "Bloack- C, Bashundhara Dhaka, Bangladesh",
+        "logo": "/assets/Logo/upwork-logo.svg.png"
+        
+    },
+    {
+        "_id": "4",
+        "jobTitle": "Apple Software Developer",
+        "company": "Apple LLC",
+        "jobType": "Onsite",
+        "jobTime": "Full Time",
+        "location": "Apple Park, USA",
+        "salary": "60K - 90K",
+        "description": " An Apple Software Developer is responsible for developing software applications for Apple's various operating systems, including iOS, macOS, watchOS, and tvOS. They work with other members of the software development team to create and maintain high-quality software that meets the needs of Apple's customers. Some of the key responsibilities of an Apple Software Developer include:",
+        "jobResponsibility" : "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+        "requirements": "Bachelor degree to complete any reputational university.",
+        "experiences": "2-3 Years in this field.",
+        "phone": "01750-00 00 04",
+        "email": "info@gmail.com",
+        "address": "Rajlakshmi, Uttora Dhaka, Bangladesh",
+        "logo": "/assets/Logo/apple-ar21.png"
+        
+    },
+    {
+        "_id": "5",
+        "jobTitle": "Audi Mechanical Engineer",
+        "company": "Audi LLC",
+        "jobType": "Onsite",
+        "jobTime": "Full Time",
+        "location": "Germen, Germen",
+        "salary": "80K - 100K",
+        "description": " An Audi Mechanical Engineer is responsible for designing, developing, and testing mechanical systems and components used in Audi vehicles. They work with other engineers, designers, and technicians to ensure that Audi vehicles are safe, reliable, and perform to the highest standards. Some of the key responsibilities of an Audi Mechanical Engineer include:",
+        "jobResponsibility" : "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+        "requirements": "Bachelor degree to complete any reputational university.",
+        "experiences": "2-3 Years in this field.",
+        "phone": "+120 750-00 12 45",
+        "email": "info@gmail.com",
+        "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh",
+        "logo": "/assets/Logo/audi-logo-white.jpg"
+        
+    },
+    {
+        "_id": "6",
+        "jobTitle": "Digital Marketer",
+        "company": "Fiverr LLC",
+        "jobType": "Remote",
+        "jobTime": "Full Time",
+        "location": "Washington DC,  USA",
+        "salary": "30K - 50K",
+        "description": " A Fiverr Database Technician is a freelance professional who provides database-related services on the Fiverr platform. Database technicians are responsible for designing, implementing, and maintaining databases for various clients. They work with clients to understand their needs and create databases that are efficient, scalable, and secure. Some of the key responsibilities of a Fiverr Database Technician include:",
+        "jobResponsibility" : "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+        "requirements": "Bachelor degree to complete any reputational university.",
+        "experiences": "2-3 Years in this field.",
+        "phone": "+120 750-00 12 48",
+        "email": "info@gmail.com",
+        "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh",
+        "logo": "/assets/Logo/fiverr-Logo.jpg"
+        
+    }
+    
+]
